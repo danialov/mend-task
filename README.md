@@ -8,9 +8,10 @@ I used:
 
 
    ```bash
-   cd fronend
+   cd frontend
    npm install
    npm run strart
 
-   cd backend
-   run spring boot application in your IDE
+   
+   Run spring boot application in your IDE (under backend path)
+   use the application in http://localhost:3000
